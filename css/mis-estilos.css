@@ -1,0 +1,70 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+.letra {
+    
+font-family: 'Roboto', sans-serif;
+    color:#7BABF6!important;
+}
+
+
+.bg-dark{
+    background-color:#A952E5!important;
+}
+
+.btn-dark{
+    background-color:#415BDB!important;
+}
+
+.btn-light{
+    background-color:#698FDA!important;
+}
+
+.bg-light{
+    background-color:#9364D5!important;
+}
+
+.bg-secondary{
+    background-color:#140248!important;
+    
+}
+
+.navegador {
+    background-color:#000000!important;
+    color:#698FDA!important; 
+}
+
+.redes a{
+    font-size: 45px;
+    color: black;
+}
+.redes a:hover{
+    color: white;
+}
+.redes a:active{
+    color:#8BC34A;
+}
+
+.bar{
+        font-size:18px;
+      color:#CBBEF1!important;
+  
+    
+}
+.bar a:hover{
+    color:#090B78!important;
+}
+.bar a:active{
+    color: floralwhite;
+}
+
+.fondo-portada{
+   background-image: url(../imagenes/fondo3.jpg);
+    background-repeat:round;
+    background-size:contain;
+   background-attachment:fixed;
+   background-color:#0867F9!important;
+}
